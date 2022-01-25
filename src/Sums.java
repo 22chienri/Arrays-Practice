@@ -17,7 +17,7 @@ public class Sums {
         // calculate sum
         int sum = num1 + num2;
         // check if between 21 and 29
-        if (sum >= 21 & sum <= 29) {
+        if (sum >= 21 && sum <= 29) {
             System.out.println("29");
         } else {
             System.out.println(sum);
